@@ -1,9 +1,3 @@
-# Secure Coding Review Report
-**Project:** Flask-Based Login App  
-**Reviewer:** MD SOJIB
-**Internship:** CodeAlpha Cybersecurity Internship  
-**Date:** June 2025
-
 ## Overview
 This project involves a code review of a simple Python Flask web application. The objective is to identify and document security vulnerabilities, suggest remediation strategies, and apply secure coding best practices.
 
