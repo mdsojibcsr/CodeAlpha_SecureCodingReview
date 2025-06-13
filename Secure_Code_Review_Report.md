@@ -7,7 +7,7 @@
 ## Overview
 This project involves a code review of a simple Python Flask web application. The objective is to identify and document security vulnerabilities, suggest remediation strategies, and apply secure coding best practices.
 
-## 🔍 Tools Used
+## Tools Used
 - Bandit (static code analysis)
 - Manual review
 - OWASP Top 10 reference
