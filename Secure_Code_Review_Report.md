@@ -34,9 +34,6 @@ This project involves a code review of a simple Python Flask web application. Th
 - Password hashing with salt
 - Secure error handling
 
-## Screenshots
-All tool outputs and findings are included in `/screenshots/`.
-
 ## References
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [Bandit Tool](https://bandit.readthedocs.io/en/latest/)
